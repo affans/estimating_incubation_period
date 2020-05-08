@@ -5,3 +5,4 @@ The code and datasets in estimation of the distribution of incubation period of 
 - plot_... : R code of function that estimates the parameters of the distribution of incubation period of COVID-19 under different assumptions
 - pi_... : R code of function that calculate the confidence intervals of incubation period of COVID-19 with bootstapping
 - model_validation.R: R code of model comparison between different assumptions of distribution of incubation period of COVID-19
+- integrate.R: main code to run this program
